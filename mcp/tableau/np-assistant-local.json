@@ -1,7 +1,7 @@
 {
-  "client_id": "https://npcs-its.github.io/mcp-client-metadata/client.json",
-  "client_name": "NP Assistant Tableau MCP",
-  "client_uri": "https://github.com/npcs-its/mcp-client-metadata",
+  "client_id": "https://npcs-its.github.io/public-metadata/mcp/tableau/np-assistant-local.json",
+  "client_name": "NP Assistant Tableau MCP Local",
+  "client_uri": "https://github.com/npcs-its/public-metadata",
   "redirect_uris": [
     "http://localhost:8080/callback"
   ],
