@@ -1,9 +1,9 @@
 {
   "client_id": "https://npcs-its.github.io/mcp-client-metadata/client.json",
-  "client_name": "NP Assistant Tableau MCP Local Test",
+  "client_name": "NP Assistant Tableau MCP",
   "client_uri": "https://github.com/npcs-its/mcp-client-metadata",
   "redirect_uris": [
-    "http://127.0.0.1:3333/callback"
+    "http://localhost:8080/callback"
   ],
   "grant_types": [
     "authorization_code",
