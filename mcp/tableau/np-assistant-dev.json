@@ -1,0 +1,11 @@
+{
+  "client_id": "https://npcs-its.github.io/public-metadata/mcp/tableau/np-assistant-dev.json",
+  "client_name": "NP ASSISTANT Tableau MCP Dev",
+  "client_uri": "https://github.com/npcs-its/public-metadata",
+  "redirect_uris": [
+    "https://salmon-coast-0cdec950f-dev.eastus2.3.azurestaticapps.net/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
