@@ -1,0 +1,15 @@
+{
+  "client_id": "https://npcs-its.github.io/public-metadata/mcp/tableau/np-assistant-prod.json",
+  "client_name": "NP ASSISTANT Tableau MCP",
+  "redirect_uris": [
+    "https://np-assistant-d0awftczfzgwc2cn.z01.azurefd.net/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
